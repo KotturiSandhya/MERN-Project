@@ -1,0 +1,28 @@
+.registerContainer{
+    width: 100%;
+    height: 100%;
+    background-color: white;
+}
+.rContainer{
+   width: 50%;
+    display: inline-block;
+    height: 80%;
+    background-color: lavender;
+    margin: 5% 25%;
+}
+.title{
+    text-align: center;
+    font-size: x-large;
+    font-weight: bold;
+    margin: 2%;
+    color: cornflowerblue;
+}
+.label{
+    font-size: large;
+}
+.hyperlink{
+    margin: 5%;
+}
+.registerSubmit{
+    margin: 3% 30%;
+}
